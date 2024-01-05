@@ -1,9 +1,9 @@
 
 ![Hero image](https://raw.githubusercontent.com/schettada/images/master/techno-timgithub-profile.jpg)
 
-![GitHub followers](https://img.shields.io/github/followers/schettada?logo=GitHub&style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/schettada?logo=github&style=for-the-badge)
-![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCOk-gHyjcWZNj3Br4oxwh0A?logo=youtube&logoColor=E05D44&style=for-the-badge&label=YouTube)
+[![GitHub followers](https://img.shields.io/github/followers/schettada?logo=GitHub&style=for-the-badge)](https://github.com/schettada)
+[![GitHub Stars](https://img.shields.io/github/stars/schettada?logo=github&style=for-the-badge)](https://github.com/schettada)
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDxtozVTUDJI-BsoTkJzf5Q?logo=youtube&logoColor=E05D44&style=for-the-badge&label=YouTube)](https://www.youtube.com/@untamedpro)
 
 # 👋 Hi!
 
@@ -20,5 +20,5 @@ I'm Timothy Stewart [(Techno Tim)](https://technotim.live), a full stack softwar
 
 # 📊 My Stats
 
-![Sooraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=schettada&theme=dark&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=schettada&theme=dark&count_private=true&theme=dark)
+[![Sooraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=schettada&theme=dark&show_icons=true)](https://github.com/schettada)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=schettada&theme=dark&count_private=true&theme=dark)](https://github.com/schettada)
